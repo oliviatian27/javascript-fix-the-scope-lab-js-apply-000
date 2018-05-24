@@ -1,5 +1,5 @@
 var animal = 'dog'
-
+var n=569
 function myAnimal() {
   return animal
 }
